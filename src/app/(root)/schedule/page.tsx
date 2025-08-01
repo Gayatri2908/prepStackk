@@ -4,7 +4,7 @@ import LoaderUI from "@/components/LoaderUI";
 import { useUserRole } from "@/hooks/useUserRole";
 import { useRouter } from "next/navigation";
 import { SignedIn, SignedOut } from "@clerk/nextjs";
-import InterviewScheduleUI from "../../../../remote-interview-platform/src/app/(root)/schedule/InterviewScheduleUI";
+import InterviewScheduleUI from "./InterviewScheduleUI";
 
 function SchedulePage() {
   const router = useRouter();
