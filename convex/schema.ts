@@ -17,7 +17,7 @@ export default defineSchema({
         endTime: v.optional(v.number()),
         status: v.string(),
         streamCallId: v.string(),
-        candidateId: v.string(),
+        candidateId: v.optional(v.string()),
         interviewerIds: v.array(v.string()),
     })
     .index("by_candidate_id", ["candidateId"])

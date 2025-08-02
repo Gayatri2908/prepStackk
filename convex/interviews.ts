@@ -39,6 +39,27 @@ export const getInterviewByStreamCallId = query({
   },
 });
 
+// export const createInterview = mutation({
+//   args: {
+//     title: v.string(),
+//     description: v.optional(v.string()),
+//     startTime: v.number(),
+//     status: v.string(),
+//     streamCallId: v.string(),
+//     candidateId: v.string(),
+//     interviewerIds: v.array(v.string()),
+//   },
+//   handler: async (ctx, args) => {
+//     const identity = await ctx.auth.getUserIdentity();
+//     if (!identity) throw new Error("Unauthorized");
+
+//     return await ctx.db.insert("interviews", {
+//       ...args,
+//     });
+//   },
+// });
+
+
 export const createInterview = mutation({
   args: {
     title: v.string(),
@@ -46,7 +67,7 @@ export const createInterview = mutation({
     startTime: v.number(),
     status: v.string(),
     streamCallId: v.string(),
-    candidateId: v.string(),
+    candidateId: v.optional(v.string()),  // <-- Make it optional
     interviewerIds: v.array(v.string()),
   },
   handler: async (ctx, args) => {
@@ -55,9 +76,11 @@ export const createInterview = mutation({
 
     return await ctx.db.insert("interviews", {
       ...args,
+     ...(args.candidateId ? { candidateId: args.candidateId } : {}),  // Save null if not provided
     });
   },
 });
+
 
 export const updateInterviewStatus = mutation({
   args: {
