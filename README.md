@@ -79,16 +79,16 @@ From the dashboard, users can:
 
 Follow these steps to clone and run the project locally:
 
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
 
-# 2. Navigate into the project directory
+2. Navigate into the project directory
 cd your-repo-name
 
-# 3. Install dependencies
+3. Install dependencies
 npm install
 
-# 4. Start the development server
+4. Start the development server
 npm run dev
 
 Once the server is running, open your browser and go to:
