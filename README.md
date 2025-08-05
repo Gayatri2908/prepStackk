@@ -7,7 +7,7 @@
 ## 🚀 Features
 
 - 🔒 **Authentication**: Secure sign-in and sign-up with Clerk.  
-  ![Authentication](./screenshots/login.jpg)
+  ![Authentication](./login.jpg)
 
 - 📞 **Instant Interview Rooms**: Create a room instantly using the *New Call* feature. A unique meeting ID is generated to invite peers.  
   ![Instant Call](./screenshots/gmeet.jpg)
