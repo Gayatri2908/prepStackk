@@ -18,7 +18,7 @@
 - 🎥 **Audio/Video Support**: Toggle mic and camera on/off during interviews.  
   ![Meeting](./audio.png)
 
-- 🧑‍💻 **LeetCode-style Coding Interface**: Solve problems collaboratively in a real-time code editor with language support (JavaScript shown).  
+- 🧑‍💻 **Collaborative Code Editor**: Solve problems collaboratively in a real-time code editor with language support (cpp shown).  
   ![Code Editor](./codeeditor.jpg)
 
 - 🖥️ **Screen Sharing**: Share your screen to explain solutions or debug collaboratively.
@@ -29,6 +29,9 @@
 
 - 📹 **Session Recording**: Record interviews to revisit later for feedback and improvement.  
   ![Recording Library](./recording.jpg)
+
+- 📹 **Theme Switching**: Toggle between Light and Dark mode for better visibility and comfort.
+
 
 ---
 
