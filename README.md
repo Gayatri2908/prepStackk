@@ -13,6 +13,7 @@
 
 - 📞 **Instant Interview Rooms**: Create a room instantly using the *New Call* feature. A unique meeting ID is generated to invite peers.  
   ![Instant Call](./instant.png)
+  ![meeting preview](./meeting.png)
 
 - 👥 **Join via Link**: Peers can join interviews using the shared meeting ID or invitation link.
 - ![join](./join.png)
