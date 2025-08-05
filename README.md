@@ -10,22 +10,22 @@
   ![Authentication](./login.jpg)
 
 - 📞 **Instant Interview Rooms**: Create a room instantly using the *New Call* feature. A unique meeting ID is generated to invite peers.  
-  ![Instant Call](./screenshots/gmeet.jpg)
+  ![Instant Call](./gmeet.jpg)
 
 - 👥 **Join via Link**: Peers can join interviews using the shared meeting ID or invitation link.
 
 - 🎥 **Audio/Video Support**: Toggle mic and camera on/off during interviews.  
-  ![Meeting](./screenshots/meeting.png)
+  ![Meeting](./meeting.png)
 
 - 🧑‍💻 **LeetCode-style Coding Interface**: Solve problems collaboratively in a real-time code editor with language support (JavaScript shown).  
-  ![Code Editor](./screenshots/codeeditor.jpg)
+  ![Code Editor](./codeeditor.jpg)
 
 - 🖥️ **Screen Sharing**: Share your screen to explain solutions or debug collaboratively.
 
 - 😀 **Emoji Reactions**: Send live feedback with emoji reactions during the interview.
 
 - 📹 **Session Recording**: Record interviews to revisit later for feedback and improvement.  
-  ![Recording Library](./screenshots/recording.jpg)
+  ![Recording Library](./recording.jpg)
 
 - 📅 **Schedule Interviews**: Plan upcoming sessions with a scheduling tool.
 
@@ -46,7 +46,7 @@
 ### 1. Authentication
 
 - Login or Sign Up using **Clerk authentication**.  
-  ![Login Page](./screenshots/login.jpg)
+  ![Login Page](./login.jpg)
 
 ---
 
@@ -67,7 +67,7 @@ From the dashboard, users can:
 - 🎥 **Camera & Microphone** previews.
 - 👩‍💻 **Collaborative Code Editor** for solving problems together.
 - 📤 **Screen Sharing**, 😄 **Emoji Reactions**, and 📹 **Recording** tools available.  
-  ![Overall Room](./screenshots/overallRoom.jpg)
+  ![Overall Room](./overallRoom.jpg)
 
 ---
 
