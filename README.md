@@ -2,6 +2,8 @@
 
 **prepStack** is a full-stack peer interview platform designed for seamless and effective mock interviews. It enables users to conduct interviews with integrated **video calling**, **collaborative coding**, **screen sharing**, **reactions**, **session recordings**, and **post-interview feedback** – all within a single unified interface.
 
+**Live** : https://prep-stackk.vercel.app/
+
 ---
 
 ## 🚀 Features
