@@ -10,12 +10,12 @@
   ![Authentication](./login.jpg)
 
 - 📞 **Instant Interview Rooms**: Create a room instantly using the *New Call* feature. A unique meeting ID is generated to invite peers.  
-  ![Instant Call](./gmeet.jpg)
+  ![Instant Call](./meeting.jpg)
 
 - 👥 **Join via Link**: Peers can join interviews using the shared meeting ID or invitation link.
 
 - 🎥 **Audio/Video Support**: Toggle mic and camera on/off during interviews.  
-  ![Meeting](./meeting.png)
+  ![Meeting](./image.png)
 
 - 🧑‍💻 **LeetCode-style Coding Interface**: Solve problems collaboratively in a real-time code editor with language support (JavaScript shown).  
   ![Code Editor](./codeeditor.jpg)
