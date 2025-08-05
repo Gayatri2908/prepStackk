@@ -1,63 +1,77 @@
-🧑‍💻 prepStack – Peer Mock Interview Platform
+# 🧑‍💻 prepStack – Peer Mock Interview Platform
 
-prepStack is a full-stack peer interview platform designed for seamless and effective mock interviews. It enables users to conduct interviews with integrated video calling, collaborative coding, screen sharing, reactions, session recordings, and post-interview feedback – all within a single unified interface.
+**prepStack** is a full-stack peer interview platform designed for seamless and effective mock interviews. It enables users to conduct interviews with integrated **video calling**, **collaborative coding**, **screen sharing**, **reactions**, **session recordings**, and **post-interview feedback** – all within a single unified interface.
 
-🚀 Features
+---
 
-    🔒 Authentication: Secure sign-in and sign-up with Clerk.
+## 🚀 Features
 
-    📞 Instant Interview Rooms: Create a room instantly using the New Call feature. A unique meeting ID is generated to invite peers.
+- 🔒 **Authentication**: Secure sign-in and sign-up with Clerk.  
+  ![Authentication](./screenshots/login.jpg)
 
-    👥 Join via Link: Peers can join interviews using the shared meeting ID or invitation link.
+- 📞 **Instant Interview Rooms**: Create a room instantly using the *New Call* feature. A unique meeting ID is generated to invite peers.  
+  ![Instant Call](./screenshots/gmeet.jpg)
 
-    🎥 Audio/Video Support: Toggle mic and camera on/off during interviews.
+- 👥 **Join via Link**: Peers can join interviews using the shared meeting ID or invitation link.
 
-    🧑‍💻 LeetCode-style Coding Interface: Solve problems collaboratively in a real-time code editor with language support (JavaScript shown).
+- 🎥 **Audio/Video Support**: Toggle mic and camera on/off during interviews.  
+  ![Meeting](./screenshots/meeting.png)
 
-    🖥️ Screen Sharing: Share your screen to explain solutions or debug collaboratively.
+- 🧑‍💻 **LeetCode-style Coding Interface**: Solve problems collaboratively in a real-time code editor with language support (JavaScript shown).  
+  ![Code Editor](./screenshots/codeeditor.jpg)
 
-    😀 Emoji Reactions: Send live feedback with emoji reactions during the interview.
+- 🖥️ **Screen Sharing**: Share your screen to explain solutions or debug collaboratively.
 
-    📹 Session Recording: Record interviews to revisit later for feedback and improvement.
+- 😀 **Emoji Reactions**: Send live feedback with emoji reactions during the interview.
 
-    📅 Schedule Interviews: Plan upcoming sessions with a scheduling tool.
+- 📹 **Session Recording**: Record interviews to revisit later for feedback and improvement.  
+  ![Recording Library](./screenshots/recording.jpg)
 
-    📁 Recording Library: Access past interview recordings anytime.
+- 📅 **Schedule Interviews**: Plan upcoming sessions with a scheduling tool.
 
+- 📁 **Recording Library**: Access past interview recordings anytime.
 
-🏗️ Tech Stack
+---
 
-    Frontend: Next.js
+## 🏗️ Tech Stack
 
-    Backend / Database: Convex
+- **Frontend**: Next.js  
+- **Backend / Database**: Convex  
+- **Authentication**: Clerk  
 
-    Auth: Clerk
+---
 
-🛠️ How It Works
+## 🛠️ How It Works
 
-    Login or Sign Up using Clerk authentication.
-      ![image](https://github.com/user-attachments/assets/db259d8f-a05b-49f5-b521-5fa9cb16b3b7)
-)
-    On the Dashboard:
+### 1. Authentication
 
-        Start a New Call (instant meeting room with sharable link).
+- Login or Sign Up using **Clerk authentication**.  
+  ![Login Page](./screenshots/login.jpg)
 
-        Join Interview using an invite code.
+---
 
-        Schedule interviews for later.
+### 2. Dashboard
 
-        View Recordings of past sessions.
+From the dashboard, users can:
 
-    In the meeting room:
+- ✅ Start a **New Call** – instant meeting room with a sharable link.
+- 🔗 **Join Interview** using an invite code.
+- 📅 **Schedule Interviews** for later.
+- 🎞️ **View Recordings** of past sessions.  
+  ![Dashboard](./screenshots/homepage.jpg)
 
-        Camera & microphone previews.
+---
 
-        Interactive code editor to solve problems together.
+### 3. In the Meeting Room
 
-        Use reactions, share screen, or record the session.
+- 🎥 **Camera & Microphone** previews.
+- 👩‍💻 **Collaborative Code Editor** for solving problems together.
+- 📤 **Screen Sharing**, 😄 **Emoji Reactions**, and 📹 **Recording** tools available.  
+  ![Overall Room](./screenshots/overallRoom.jpg)
 
-📌 Future Plans (Optional)
+---
 
-    Leaderboards based on performance.
+## 📌 Future Plans
 
-    AI-powered interview feedback and s
+- 🏆 **Leaderboards** based on performance.
+- 🤖 **AI-powered interview feedback** and suggestions.
