@@ -16,7 +16,7 @@
 - ![join](./join.png)
 
 - 🎥 **Audio/Video Support**: Toggle mic and camera on/off during interviews.  
-  ![Meeting](./gmeet.jpg)
+  ![Meeting](./audio.png)
 
 - 🧑‍💻 **LeetCode-style Coding Interface**: Solve problems collaboratively in a real-time code editor with language support (JavaScript shown).  
   ![Code Editor](./codeeditor.jpg)
@@ -25,7 +25,7 @@
 -  ![Meeting](./share.png)
 
 - 😀 **Emoji Reactions**: Send live feedback with emoji reactions during the interview.
--  ![screen](./gmeet.png)
+-  ![screen](./emoji.png)
 
 - 📹 **Session Recording**: Record interviews to revisit later for feedback and improvement.  
   ![Recording Library](./recording.jpg)
