@@ -36,8 +36,8 @@ prepStack is a full-stack peer interview platform designed for seamless and effe
 🛠️ How It Works
 
     Login or Sign Up using Clerk authentication.
-    <img src="<img width="1917" height="855" alt="image" src="https://github.com/user-attachments/assets/2d91c3e4-3290-46a6-8708-bde98cb72abc" />
-" alt="Dashboard Screenshot" width="700"/>
+    ![alt text](<img width="1920" height="839" alt="image" src="https://github.com/user-attachments/assets/40f674ca-eac8-47a2-9131-3b49b50ac067" />
+)
     On the Dashboard:
 
         Start a New Call (instant meeting room with sharable link).
