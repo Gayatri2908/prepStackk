@@ -16,7 +16,7 @@
 - ![join](./join.png)
 
 - 🎥 **Audio/Video Support**: Toggle mic and camera on/off during interviews.  
-  ![Meeting](./gmeet.png)
+  ![Meeting](./gmeet.jpg)
 
 - 🧑‍💻 **LeetCode-style Coding Interface**: Solve problems collaboratively in a real-time code editor with language support (JavaScript shown).  
   ![Code Editor](./codeeditor.jpg)
