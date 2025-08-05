@@ -74,3 +74,23 @@ From the dashboard, users can:
 
 - 🏆 **Leaderboards** based on performance.
 - 🤖 **AI-powered interview feedback** and suggestions.
+
+## 🛠️ Run Locally
+
+Follow these steps to clone and run the project locally:
+
+# 1. Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# 2. Navigate into the project directory
+cd your-repo-name
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+
+Once the server is running, open your browser and go to:
+
+http://localhost:3000
