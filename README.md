@@ -13,6 +13,7 @@
   ![Instant Call](./meeting.jpg)
 
 - 👥 **Join via Link**: Peers can join interviews using the shared meeting ID or invitation link.
+- ![join](./join.jpg)
 
 - 🎥 **Audio/Video Support**: Toggle mic and camera on/off during interviews.  
   ![Meeting](./image.png)
@@ -26,8 +27,6 @@
 
 - 📹 **Session Recording**: Record interviews to revisit later for feedback and improvement.  
   ![Recording Library](./recording.jpg)
-
-- 📅 **Schedule Interviews**: Plan upcoming sessions with a scheduling tool.
 
 - 📁 **Recording Library**: Access past interview recordings anytime.
 
