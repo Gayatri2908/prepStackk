@@ -57,7 +57,7 @@ From the dashboard, users can:
 - 🔗 **Join Interview** using an invite code.
 - 📅 **Schedule Interviews** for later.
 - 🎞️ **View Recordings** of past sessions.  
-  ![Dashboard](./screenshots/homepage.jpg)
+  ![Dashboard](./homepage.jpg)
 
 ---
 
